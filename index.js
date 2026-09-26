@@ -1,7 +1,4 @@
-const bot = mineflayer.createBot({
-  host: 'YOUR_SERVER_IP',
-  username: 'BotName',
-  version: '26.3'});
+
 const mineflayer = require('mineflayer');
 const { Movements, pathfinder, goals } = require('mineflayer-pathfinder');
 const { GoalBlock } = goals;
