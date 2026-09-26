@@ -8,7 +8,8 @@
   "server": {
     "ip": "debjit99hxdhc.aternos.me",
     "port": 47340,
-    "version": "fasle"
+    "version": "1.26.3
+  "message": "Version: 1.26.3",
   },
   "position": {
     "enabled": true,
